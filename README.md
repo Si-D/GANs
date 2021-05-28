@@ -1,2 +1,2 @@
 # GANs
-Implementing various GANs from scratch using Pytorch
+Implementing various Generative Adversarial Networks from scratch using Pytorch
